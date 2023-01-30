@@ -28,3 +28,6 @@ The information stored in the dataframe can be used for further analysis. For ex
 
 ## Conclusion
 This script can be used as a starting point for anyone looking to analyze car advertisements on the ikman.lk website. By providing information such as the price, YoM, mileage, and district of the advertisement, this script can help you make informed decisions when buying a car. Further multiple filters can be accomodated by changing the script to improve the output quality.
+
+## Sources
+Code optimization done with OpenAI
