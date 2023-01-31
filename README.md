@@ -11,13 +11,10 @@ This script is a simple web scraper that scrapes car ads from the website ikman.
 - plotly.express
 
 ## Usage
- 1. Clone the repository and navigate to the directory in the terminal.
- 2. Run the script using the following command:
- ```
- python ikman_scraper.py
- ```
- 3. A GUI window will appear where you can enter the desired filters. Fill out the form and click submit.
- 4. The program will scrape the specified number of pages, store the results in a Pandas DataFrame, and visualize the data using Plotly.
+1. Clone or download the repository to your local machine
+2. Open the 'ikman.lk_carinfo_scraper_v2.ipynb' Jupyter Notebook file in your local machine
+3. Install the required packages specified in the first code cell of the notebook
+4. Run all cells in the notebook in sequence to scrape the car information
 
 ## Customization
 
