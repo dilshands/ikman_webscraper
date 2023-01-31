@@ -25,3 +25,12 @@ The user can choose to modify the data analysis, data visualization, and the GUI
 
 ## Sources
 Code optimization and plotting done using OpenAI
+
+## Versions
+##### V1 
+Filters: model/ minimum year of manufacture/ number of pages to go through
+Output: Dataframe with year/price/mileage/district/link of the filtered results
+
+##### V2
+Filters: model/ minimum year of manufacture/ maximum year of manufacture/ minimum mileage/ maximum mileage/ minimum price/ maximum price/ number of pages to go through
+Output: Scatterplot of price vs. mileage grouped by year of manufacture. Added the URL of the advertisement as a label
